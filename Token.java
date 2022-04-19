@@ -1,5 +1,6 @@
 // Token.java
 package interpreter;
+
 import java.lang.Enum;
 
 enum Token {
